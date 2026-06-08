@@ -1,10 +1,9 @@
-# Data-preprocessing preparing the data for machine learning model
-Data preprocessing is the step that comes after EDA and focuses on preparing the data for machine learning model. The primary goal is to clean, transform, and pre-process the data to ensure it is in a suitable format for training machine learning models. In data preprocessing, various techniques are applied to clean the data (handling missing values, removing duplicates), transform the data(scaling, normalization),handle categorical variables(encoding), perform feature engineering, and deal with outliers.
+# Data Preprocessing for Machine Learning
 
-I)HANDLING MISSING VALUES
+Data preprocessing is the crucial step following Exploratory Data Analysis (EDA), focusing on preparing data for a machine learning model. The primary goal is to clean, transform, and pre-process the data to ensure it is in a suitable format for training. Common techniques include cleaning the data (handling missing values, removing duplicates), transforming data (scaling, normalization), handling categorical variables (encoding), performing feature engineering, and dealing with outliers.
 
-II)HANDLING IMBALANCED DATASET
+I) Handling Missing Values
 
-III)LABEL ENCODING
+II) Handling Imbalanced Datasets
 
-IV)DATA STANDARDIZATION
+III) Label Encoding
